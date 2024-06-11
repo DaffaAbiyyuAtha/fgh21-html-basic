@@ -1,0 +1,41 @@
+
+
+thead{
+    padding-top: 20px;
+    background-color: #012C3C ;
+}
+body{
+    position: center;
+}
+thead th{
+    padding-left: 15px;
+    padding-right: 50px;
+    color: #e3b109;
+    border-width: 10px;
+    border-color: #02394D;
+    height: 50px;
+}
+tbody{
+    background-color: #02394D;
+    color : white;
+    border: none;
+}
+table{
+    background-color: #02394D;
+    border-collapse: collapse;
+}
+.tratas{
+    background-color: #012C3C;
+}
+.genap{
+    height: 50px;
+    background-color: #012C3C;
+}
+.ganjil{
+   
+    height: 50px;
+    background-color: #02394D;
+}
+tbody td{
+    padding-left: 15px;
+}
